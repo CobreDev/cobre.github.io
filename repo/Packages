@@ -1,0 +1,16 @@
+Package: repoMoved
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cobre <cooper@cooperhull.com>
+Depends: mobilesubstrate
+Filename: ./debs/repoMoved.deb
+Size: 3552
+MD5sum: 930b1a59ac7a30a01aaf2ac17911d3a8
+SHA1: e19104baac41610520da4da38ffba395617d380a
+SHA256: ef67b9f4dc337085c2da834a6da2211cd51d040a350b4b864fa897c9143bdd37
+Section: Tweaks
+Description: Add repo.cobre.dev
+Author: Cobre <cooper@cooperhull.com>
+Depiction: https://cobre.dev/repo/depictions/?p=repoMoved/
+Name: Repo Moved
+Sileodepiction: https://raw.githubusercontent.com/CobreDev/cobre.github.io/master/repo/sileodepictions/repoMoved.json

@@ -1,0 +1,23 @@
+<package>
+	<id>repoMoved</id>
+	<name>Repo Moved</name>
+	<version>1.0</version>
+
+	<shortDescription>Cobre's Repo has been moved to https://repo.cobre.dev.</shortDescription>
+
+	<descriptionlist>
+		<description>Cobre's Repo has been moved to https://repo.cobre.dev. This repo will soon be taken offline.</description>
+	</descriptionlist>
+
+	<changelog>
+		<change></change>
+	</changelog>
+
+	<links>
+		<link>
+			<name>Email Me</name>
+			<url>mailto:cooper@cooperhull.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</links>
+</package>
