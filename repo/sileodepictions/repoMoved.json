@@ -9,7 +9,7 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "## Cobre's Repo has been moved to https://repo.cobre.dev. This repo will soon be taken offline."
-				},
+				}
 			],
 			"class": "DepictionStackView"
 		},
